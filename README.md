@@ -6,9 +6,14 @@
 - 📫 How to reach me: swathihemalatha@gmail.com
 
 
-<div>
-<img align="left" src="https://miro.medium.com/v2/resize:fit:900/1*8CM8xyu2U-fs8mS_adV0lg.jpeg" width="50%"/>
-<img align="right" src="https://cdn.dribbble.com/users/291221/screenshots/1208616/learn.gif" width="50%"/>
+<div class ="row">
+  <div class = "column">
+      <img align="left" src="https://miro.medium.com/v2/resize:fit:900/1*8CM8xyu2U-fs8mS_adV0lg.jpeg" width="50%"/>
+  </div>
+  <div class = "column">
+      <img align="right" src="https://cdn.dribbble.com/users/291221/screenshots/1208616/learn.gif" width="50%"/>
+  </div>
+</div> 
 <br>
 
 <!---
