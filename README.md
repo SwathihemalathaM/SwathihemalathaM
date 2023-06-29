@@ -5,7 +5,7 @@
 - 💞️ I’m looking to switch my job to Software as I'm quick learner, self motivated and keen listener.
 - 📫 How to reach me: swathihemalatha@gmail.com
 
-
+<body bgcolor = "#c6ebf5">
 <div class ="row">
   <div class = "column">
       <img align="left" src="https://miro.medium.com/v2/resize:fit:900/1*8CM8xyu2U-fs8mS_adV0lg.jpeg" width="45%"/>
@@ -15,6 +15,7 @@
   </div>
 </div> 
 <br>
+</body>
 
 <!---
 SwathihemalathaM/SwathihemalathaM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
