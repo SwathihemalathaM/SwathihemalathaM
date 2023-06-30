@@ -8,10 +8,10 @@
 <body bgcolor = "#c6ebf5">
 <div class ="row">
   <div class = "column">
-      <img align="left" src="https://miro.medium.com/v2/resize:fit:900/1*8CM8xyu2U-fs8mS_adV0lg.jpeg" width="50%"/>
+      <img align="left" src="https://miro.medium.com/v2/resize:fit:900/1*8CM8xyu2U-fs8mS_adV0lg.jpeg" width="48%"/>
   </div>
   <div class = "column">
-      <img align="right" src="https://cdn.dribbble.com/users/291221/screenshots/1208616/learn.gif" width="49%"/>
+      <img align="right" src="https://cdn.dribbble.com/users/291221/screenshots/1208616/learn.gif" width="45%"/>
   </div>
 </div> 
 <br>
